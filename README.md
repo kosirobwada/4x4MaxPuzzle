@@ -43,3 +43,5 @@ http://mikamir.wiki.fc2.com/jump/https/algo-method.com%2Ftasks%2F329%2Feditorial
 ![image](https://github.com/kosirobwada/4x4MaxPuzzle/assets/97875031/a08f3003-85e6-4dc5-bace-e472b096d130)
 例えばdp[2][2]について考えてみよう。マス上に書かれた数はque[2][2]=3である。また、dp[1][2]=5、dp[2][1]=3より、dp[1][2]>dp[2][1]である。このため、マス上を[1][2]->[2][2]のように下に移動したほうがよさそうである。よって、dpテーブルをdp[2][2]=8に更新する。
 
+# 回路図
+![image](https://github.com/kosirobwada/4x4MaxPuzzle/assets/97875031/e97ce16b-d122-421c-9470-55c6e8e6725d)
