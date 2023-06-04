@@ -48,3 +48,11 @@ http://mikamir.wiki.fc2.com/jump/https/algo-method.com%2Ftasks%2F329%2Feditorial
 - 4x4のマトリックスキーパッドの入力を読み取るために割り込みを発生させるTimerモジュールを使用している。
 - PCとの通信を行うUARTモジュールとクロック供給用のCounterモジュールを使用している。
 - Matrix keypadの回路図にcounter8,uartモジュールを追加し、配線する。
+
+# hexキーパッド
+![image](https://github.com/kosirobwada/4x4MaxPuzzle/assets/97875031/7c874de4-15bb-4d49-9a84-354a556cff0d)
+Hexキーパッドは紐の位置が右側に来るよう正面に置く。
+![image](https://github.com/kosirobwada/4x4MaxPuzzle/assets/97875031/306acc2e-d2b8-4d97-8f34-8f14fd2b9b48)
+port0にマトリックスキーパッドをつなぎ、port1[3]とRX,port1[5]とTXをジャンパ線でつないだ。
+
+
