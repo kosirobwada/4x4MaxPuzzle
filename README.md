@@ -51,8 +51,8 @@ http://mikamir.wiki.fc2.com/jump/https/algo-method.com%2Ftasks%2F329%2Feditorial
 
 # hexキーパッド
 ![image](https://github.com/kosirobwada/4x4MaxPuzzle/assets/97875031/7c874de4-15bb-4d49-9a84-354a556cff0d)
-Hexキーパッドは紐の位置が右側に来るよう正面に置く。
+- Hexキーパッドは紐の位置が右側に来るよう正面に置く。
 ![image](https://github.com/kosirobwada/4x4MaxPuzzle/assets/97875031/306acc2e-d2b8-4d97-8f34-8f14fd2b9b48)
-port0にマトリックスキーパッドをつなぎ、port1[3]とRX,port1[5]とTXをジャンパ線でつないだ。
+- port0にマトリックスキーパッドをつなぎ、port1[3]とRX,port1[5]とTXをジャンパ線でつないだ。
 
 
