@@ -45,6 +45,6 @@ http://mikamir.wiki.fc2.com/jump/https/algo-method.com%2Ftasks%2F329%2Feditorial
 
 # 回路図
 ![image](https://github.com/kosirobwada/4x4MaxPuzzle/assets/97875031/e97ce16b-d122-421c-9470-55c6e8e6725d)
-・4x4のマトリックスキーパッドの入力を読み取るために割り込みを発生させるTimerモジュールを使用している。
-・PCとの通信を行うUARTモジュールとクロック供給用のCounterモジュールを使用している。
-・Matrix keypadの回路図にcounter8,uartモジュールを追加し、配線する。
+- 4x4のマトリックスキーパッドの入力を読み取るために割り込みを発生させるTimerモジュールを使用している。
+- PCとの通信を行うUARTモジュールとクロック供給用のCounterモジュールを使用している。
+- Matrix keypadの回路図にcounter8,uartモジュールを追加し、配線する。
